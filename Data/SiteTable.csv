@@ -1,0 +1,61 @@
+﻿SiteNumber,SiteName,County,WSGMonitored,GreenCrabObserved,LatitudeDD,LongitudeDD,HabType,Hab1Isolated,Hab1Slough,Hab1Tideflat,Hab2Vegetation,Hab2Impoundment,Hab3Waves,Hab3Freshwater,Hab4Houses,Hab4Road,Hab5Park
+3,Anderson Island,Pierce,CURRENT,NO,47.1458712,-122.7319221,Lagoon,1,0,0,1,0,0,0,0,0,1
+74,Musqueti,Mason,CURRENT,NO,47.3882213,-123.1163677,Lagoon,1,0,0,1,0,0,0,1,1,0
+97,Harper,Kitsap,CURRENT,NO,47.51654,-122.51575,Tideflat,1,0,1,1,1,0,0,1,1,0
+108,Bremerton Yacht Club,Kitsap,CURRENT,NO,47.5865962,-122.666069,Lagoon,1,0,0,0,1,0,0,1,1,0
+128,Nick's Lagoon,Kitsap,CURRENT,NO,47.63813,-122.839,Lagoon,1,0,0,1,1,0,0,1,1,0
+133,Best Lagoon,Kitsap,CURRENT,NO,47.6469551,-122.6830086,Lagoon,1,0,1,1,0,0,0,1,1,0
+138,North Duckabush,Jefferson,CURRENT,NO,47.6489801,-122.9307717,Channel,0,1,1,1,0,0,0,1,1,0
+153,Kiana Lodge,Kitsap,CURRENT,NO,47.70143,-122.58294,Lagoon,1,0,0,0,1,0,0,1,1,0
+161,Zelatched Point,Jefferson,CURRENT,NO,47.7113514,-122.8199679,Lagoon,1,0,0,1,0,0,0,1,1,0
+172,Point Julia,Kitsap,CURRENT,NO,47.8554133,-122.5748384,Channel,1,1,0,1,0,0,0,0,0,1
+173,Doe Kag Wats,Kitsap,CURRENT,NO,47.7453912,-122.4946491,Channel,1,1,0,1,0,0,0,0,1,1
+177,Carpenter Creek,Kitsap,CURRENT,NO,47.7943452,-122.5066661,Lagoon,0,1,1,0,1,0,0,1,1,1
+198,Discovery Bay,Jefferson,CURRENT,NO,47.9977512,-122.8825095,Lagoon,1,0,1,1,1,0,0,1,1,0
+199,Jimmycomelately Creek,Clallam,CURRENT,YES,48.0230835,-123.0061444,Channel,1,1,0,1,0,0,1,1,1,1
+201,Indian Island Lagoon,Jefferson,CURRENT,NO,48.025401,-122.7216662,Lagoon,1,0,1,1,0,0,0,0,1,0
+204,Kala Lagoon,Jefferson,CURRENT,YES,48.05785,-122.7698,Lagoon,1,0,1,1,0,0,0,1,1,0
+207,Washington Harbor,Clallam,CURRENT,NO,48.0886291,-123.0432305,Channel,1,1,0,1,1,0,1,1,1,0
+214,Dungeness Landing,Clallam,CURRENT,YES,48.1499418,-123.1383572,Channel,0,1,1,1,0,0,0,1,1,0
+219,Pysht ,Clallam,CURRENT,NO,48.2056323,-124.1129729,Channel,1,1,0,1,0,0,1,0,1,1
+250,Butterball Cove,Thurston,CURRENT,NO,47.1181638,-122.7619788,Lagoon,1,0,0,1,0,0,0,1,1,0
+277,Titlow Lagoon,Pierce,CURRENT,NO,47.2488254,-122.5515108,Lagoon,1,0,0,1,1,0,0,1,1,1
+306,Deer Lagoon,Island,CURRENT,NO,47.99458,-122.49186,Lagoon,1,1,1,1,0,0,1,1,1,0
+308,Hancock Lake,Island,CURRENT,NO,48.1136673,-122.5964456,Channel,1,1,1,1,0,0,1,0,0,0
+311,Penn Cove,Island,CURRENT,NO,48.23373,-122.7299722,Lagoon,1,0,0,1,0,0,0,0,1,0
+322,Lone Tree Lagoon,Skagit,CURRENT,NO,48.4070743,-122.5550184,Lagoon,1,0,0,1,0,0,0,1,1,0
+323,Kiket Lagoon,Skagit,CURRENT,NO,48.42112,-122.55775,Lagoon,1,0,0,1,0,0,0,1,1,1
+330,Mud Bay,San Juan,CURRENT,NO,48.46091,-122.82149,Lagoon,1,0,0,1,0,0,0,0,0,0
+341,Crandall Spit,Skagit,CURRENT,NO,48.4930814,-122.5780734,Lagoon,1,0,1,1,0,0,0,0,1,0
+349,Shaw Island,San Juan,CURRENT,NO,48.5607255,-122.9502154,Tideflat,0,0,1,1,0,0,0,1,1,0
+361,Chuckanut Bay,Whatcom,CURRENT,NO,48.6978858,-122.5064085,Tideflat,0,0,1,0,1,0,0,0,0,0
+362,Post Point Lagoon,Whatcom,CURRENT,NO,48.7187437,-122.5155645,Lagoon,1,0,0,1,1,0,0,1,1,1
+367,Drayton Harbor,Whatcom,CURRENT,YES,48.9618018,-122.7342225,Tideflat,0,0,1,1,1,0,0,1,1,0
+371,Double Cove,San Juan,FORMER,NO,48.5924385,-122.9283147,Lagoon,1,0,0,1,0,0,0,1,0,0
+378,Big Indian Slough,Skagit,CURRENT,NO,48.4527805,-122.4735085,Channel,0,1,0,1,0,0,0,0,0,1
+379,Biomonitoring,Skagit,CURRENT,YES,48.5485785,-122.4991599,Tideflat,0,0,1,0,0,0,0,0,0,0
+380,Fidalgo Trestle,Skagit,CURRENT,NO,48.4778014,-122.5733726,Tideflat,0,0,1,1,0,0,0,0,1,0
+382,Sullivan Minor,Skagit,CURRENT,NO,48.5017454,-122.4834569,Tideflat,0,0,1,1,0,0,0,0,0,0
+383,Graveyard Spit East (Lagoon),Clallam,CURRENT,NO,48.1765981,-123.1277865,Lagoon,1,0,0,1,0,0,0,0,0,1
+384,Graveyard Spit West (Channel),Clallam,CURRENT,YES,48.1735046,-123.1366566,Channel,1,1,0,1,0,0,0,0,0,1
+385,Dungeness Spit Base,Clallam,CURRENT,YES,48.1467109,-123.1838608,Tideflat,1,0,1,1,0,0,0,0,0,1
+386,Sharpes Corner,Skagit,CURRENT,NO,48.4653694,-122.5845641,Channel,1,1,1,1,0,0,0,0,1,0
+508,Race Lagoon,Island,CURRENT,NO,48.191825,-122.6006242,Lagoon,1,0,0,1,1,0,0,1,1,0
+516,Iverson Spit,Island,CURRENT,NO,48.21409,-122.446426,Channel,0,1,1,1,0,0,0,1,1,0
+527,Swinomish Casino,Skagit,CURRENT,NO,48.4611739,-122.5225262,Channel,1,1,1,1,1,0,0,1,1,0
+528,Shore Trail,Skagit,CURRENT,NO,48.4718416,-122.4702043,Tideflat,0,0,1,1,0,0,0,0,0,1
+529,Alice Bay,Skagit,CURRENT,NO,48.5569462,-122.4858987,Channel,0,1,1,1,0,0,0,0,1,0
+533,Westcott Bay,San Juan,CURRENT,YES,48.6083411,-123.1435999,Channel,0,1,0,1,0,0,0,1,1,1
+536,Third Lagoon,San Juan,CURRENT,NO,48.46161,-122.9751923,Lagoon,1,0,0,1,0,0,0,0,1,0
+540,Spencer Spit,San Juan,CURRENT,NO,48.5358345,-122.8552321,Lagoon,1,0,0,1,0,0,0,0,1,0
+541,Cypress Island,Skagit,CURRENT,NO,48.5512078,-122.6964201,Channel,0,1,0,1,0,0,0,1,0,0
+552,Elger Bay,Island,CURRENT,NO,48.1312959,-122.470491,Channel,1,1,0,1,0,0,0,1,1,0
+553,Blakely Harbor,Kitsap,CURRENT,NO,47.595538,-122.516886,Lagoon,1,0,0,1,1,0,0,1,1,0
+579,Point Heyer,King,CURRENT,NO,47.4227576,-122.4306703,Lagoon,1,0,0,1,0,0,0,1,1,0
+581,Rabb's Lagoon,King,CURRENT,NO,47.392326,-122.433954,Lagoon,1,0,0,0,1,0,0,1,1,0
+590,Lagoon Point Community,Island,CURRENT,YES,48.07932,-122.61137,Lagoon,1,0,0,0,1,0,0,1,1,0
+599,Davis Slough,Island,CURRENT,NO,48.2401754,-122.3949708,Channel,0,1,0,1,0,0,0,0,0,0
+299,Port Susan Bay,Snohomish,FORMER,NO,48.2071864,-122.3706794,Tideflat,1,1,1,0,1,0,0,0,0,0
+381,Weavering Spit,Skagit,FORMER,NO,48.48124,-122.5868,Tideflat,0,0,1,0,0,0,0,0,0,1
+503,Crockett Lake,Island,FORMER,NO,48.162159,-122.670856,Lagoon,1,0,0,1,1,0,0,1,1,0
+566,Kennedy Creek,Mason,FORMER,NO,47.0975592,-123.0855003,Channel,0,0,1,1,0,0,0,0,1,1
